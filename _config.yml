@@ -80,10 +80,10 @@ analytics:
 # Site Author
 author:
   name             : "Minbo Ma"
-  avatar           : "haoliu.jpg"
+  avatar           : "minboma.jpg"
   bio              : |
-    The Hong Kong University of <br>
-    Science and Technology (Guangzhou)
+    SWJTU, Chengdu, China <br>
+    University of Hagen, Hagen, Germany (Guangzhou)
   location         : "Chengdu, China & Hagen, Germany"
   employer         :
   googlescholar    : 
@@ -113,6 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "MinboMa"
 
 
 # Reading Files
