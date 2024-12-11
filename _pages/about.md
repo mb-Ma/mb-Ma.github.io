@@ -24,10 +24,8 @@ News
 ======
 <!-- * <span style="color:red">New!</span> (2024-11-20) We organize a special issue on **[Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf)** at ***[ACM TIST](https://dl.acm.org/journal/tist)***, we sincerely invite you to contribute a manuscript.
 -->
-  
 <!--* <span style="color:red">New!</span> (2024-11-20) Three papers were accepted to ***KDD 2025*** about **[LLM as Traffic Control Agent](https://arxiv.org/abs/2312.16044)** ([Media Coverage](https://www.qbitai.com/2024/03/128386.html)), **[Auotmated Spatiotemporal Forecasting](https://arxiv.org/abs/2409.16586)** and **[Graph LoRA](https://arxiv.org/abs/2409.16670)**, congrates to my students Siqi Lai, Tengfei Lyu, and Zherui Yang.
 -->
-* 
 * (2023-12-08) One paper *Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting* is accepted by ***ICDE***. (CCF-A)
 * (2023-06-10) One survey paper *Long sequence time-series forecasting with deep learning: A survey* is accepted by ***Information Fusion***. (IF: 14.7)
 * (2023-06-07) One paper *HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting* is accepted by ***Information Sciences***. (IF: 8.1)
@@ -36,7 +34,7 @@ News
 <summary>Past news</summary>
 * (2023-06-07) One paper *HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting* is accepted by Information Sciences. (IF: 8.1) <br>
 * (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by TKDE. (IF: 8.9, CCF-A).  <br>
-
+</details>
 
 Publications
 ======
