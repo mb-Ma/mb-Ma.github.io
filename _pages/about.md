@@ -26,14 +26,16 @@ News
 -->
 <!--* <span style="color:red">New!</span> (2024-11-20) Three papers were accepted to ***KDD 2025*** about **[LLM as Traffic Control Agent](https://arxiv.org/abs/2312.16044)** ([Media Coverage](https://www.qbitai.com/2024/03/128386.html)), **[Auotmated Spatiotemporal Forecasting](https://arxiv.org/abs/2409.16586)** and **[Graph LoRA](https://arxiv.org/abs/2409.16670)**, congrates to my students Siqi Lai, Tengfei Lyu, and Zherui Yang.
 -->
+* (2024-05-01) One paper *DeepWind: A heterogeneous spatio-temporal model for wind forecasting* is accepted by **Knowledge-Based Systems**. (IF: 8.8)
+* (2023-12-08) One paper *Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting* is accepted by ***ICDE***. (CCF-A)
 * (2023-12-08) One paper *Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting* is accepted by ***ICDE***. (CCF-A)
 * (2023-06-10) One survey paper *Long sequence time-series forecasting with deep learning: A survey* is accepted by ***Information Fusion***. (IF: 14.7)
 * (2023-06-07) One paper *HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting* is accepted by ***Information Sciences***. (IF: 8.1)
 * (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by ***TKDE***. (IF: 8.9, CCF-A).
 <details>
 <summary>Past news</summary>
-  * (2023-06-07) One paper *HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting* is accepted by Information Sciences. (IF: 8.1) <br>
-  * (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by TKDE. (IF: 8.9, CCF-A).  <br>
+  * (2023-06-07) One paper *HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting* is accepted by Information Sciences. (IF: 8.1)
+  * (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by TKDE. (IF: 8.9, CCF-A).
 </details>
 
 Publications
