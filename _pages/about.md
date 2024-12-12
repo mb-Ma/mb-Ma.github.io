@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Minbo Ma is currently pursuing his Ph.D. degree in the School of Computing and Artificial Intelligence at Southwest Jiaotong University (SWJTU), China, supervised by [Prof. Tianrui Li](https://faculty.swjtu.edu.cn/litianrui/en/index.htm). Meanwhile, he is also pursuing a Ph.D. degree at Fernuniversität in Hagen, Germany, supervised by Prof. Dr.-Ing. habil. Dr. h.c. Herwig Unger and Prof. Dr. Zhong Li. He obtained his M.S. degree in Computer Science from Southwest Jiaotong University in 2020, supervised by [Prof. Fei Teng](https://faculty.swjtu.edu.cn/tengfei/en/index.htm), and obtained his B.S. degree in Computer Science from Chongqing Three Gorges College in 2017. During the period from Oct. 2022 to Oct. 2023, He visited Aalborg University (AAU), Denmark, supervised by [Prof. Christian S. Jensen](https://csj.cs.aau.dk/).  
+Minbo Ma is currently pursuing his Ph.D. degree in the School of Computing and Artificial Intelligence at Southwest Jiaotong University (SWJTU), China, supervised by [Prof. Tianrui Li](https://faculty.swjtu.edu.cn/litianrui/en/index.htm). Meanwhile, he is also pursuing a Ph.D. degree at Fernuniversität in Hagen, Germany, supervised by Prof. Dr.-Ing. habil. Dr. h.c. Herwig Unger and Prof. Dr. Zhong Li. He obtained his M.S. degree in Computer Science from Southwest Jiaotong University in 2020, supervised by [Prof. Fei Teng](https://faculty.swjtu.edu.cn/tengfei/en/index.htm). During the period from Oct. 2022 to Oct. 2023, He visited Aalborg University (AAU), Denmark, supervised by [Prof. Christian S. Jensen](https://csj.cs.aau.dk/).  
 
 His research interest lies in Spatial-temporal Data Mining, Graph Neural Networks, and Self-supervised Contrastive Learning.
 
@@ -32,8 +32,8 @@ News
 * (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by ***TKDE***. (IF: 8.9, CCF-A).
 <details>
 <summary>Past news</summary>
-* (2023-06-07) One paper *HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting* is accepted by Information Sciences. (IF: 8.1) <br>
-* (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by TKDE. (IF: 8.9, CCF-A).  <br>
+  * (2023-06-07) One paper *HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting* is accepted by Information Sciences. (IF: 8.1) <br>
+  * (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by TKDE. (IF: 8.9, CCF-A).  <br>
 </details>
 
 Publications
