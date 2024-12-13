@@ -34,8 +34,10 @@ News
 * (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by ***TKDE***. (IF: 8.9, CCF-A).
 <details>
 <summary>Past news</summary>
-  * (2023-06-07) One paper *HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting* is accepted by Information Sciences. (IF: 8.1)
-  * (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by TKDE. (IF: 8.9, CCF-A).
+  <ul>
+    <li>(2023-06-07) One paper <i>HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting</i> is accepted by Information Sciences. (IF: 8.1)</li>
+    <li>(2023-03-01) One paper <i>Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction</i> is accepted by TKDE. (IF: 8.9, CCF-A).</li>
+  </ul>
 </details>
 
 Publications
