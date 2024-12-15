@@ -11,6 +11,8 @@ Minbo Ma is currently pursuing his Ph.D. degree in the School of Computing and A
 
 His research interest lies in Spatial-temporal Data Mining, Graph Neural Networks, and Self-supervised Contrastive Learning.
 
+<span style="color:red"> He is currently seeking a postdoctoral position. If you are interested, Please do not hesitate to contact him (minbo46.ma@gmail) </span>
+
 <!--<span style="color:red"> **[Call for paper]** We organize a special issue on **[Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf)** at ***[ACM TIST](https://dl.acm.org/journal/tist)***, we sincerely invite you to contribute a manuscript. Submission deadline on April 30, 2025! </span>
 
 <span style="color:red"> **[Postdoc]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. </span>
