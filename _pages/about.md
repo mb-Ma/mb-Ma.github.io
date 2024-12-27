@@ -30,7 +30,6 @@ News
 -->
 * (2024-05-01) One paper *DeepWind: A heterogeneous spatio-temporal model for wind forecasting* is accepted by **Knowledge-Based Systems**. (IF: 8.8)
 * (2023-12-08) One paper *Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting* is accepted by ***ICDE***. (CCF-A)
-* (2023-12-08) One paper *Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting* is accepted by ***ICDE***. (CCF-A)
 * (2023-06-10) One survey paper *Long sequence time-series forecasting with deep learning: A survey* is accepted by ***Information Fusion***. (IF: 14.7)
 * (2023-06-07) One paper *HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting* is accepted by ***Information Sciences***. (IF: 8.1)
 * (2023-03-01) One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by ***TKDE***. (IF: 8.9, CCF-A).
