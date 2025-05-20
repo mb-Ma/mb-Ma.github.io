@@ -7,6 +7,10 @@ permalink: /publications/
 <!--(Underline indicates students I supervised, \* indicates correpsonding author)
 -->
 
+**2025**
+* **[SIGKDD]** **Minbo Ma**, Kai Tang, Huan Li, Fei Teng, Dalin Zhang, Tianrui Li. [Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning](https://arxiv.org/abs/2502.15296). ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **(CCF-A)**
+* **[IJCAI]** Bin Wang, Yongqi Han, **Minbo Ma**, Tianrui Li, Junbo Zhang, Feng Hong, Yanwei Yu. Non-collective Calibrating Strategy for Time Series Forecasting. International Joint Conference on Artificial Intelligence. **(CCF-A)**
+
 **2024**
 * **[KBS]** Bin Wang, Junrui Shi, Binyu Tan, **Minbo Ma**, Feng Hong, Yanwei Yu, Tianrui Li. [DeepWind: A heterogeneous
 spatio-temporal model for wind forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000200). Knowledge-Based Systems. **(IF: 8.8)**
