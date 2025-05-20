@@ -11,7 +11,7 @@ Minbo Ma is currently pursuing his Ph.D. degree in the School of Computing and A
 
 His research interest lies in Spatial-temporal Data Mining, Graph Neural Networks, and Self-supervised Contrastive Learning.
 
-<span style="color:red"> He is currently seeking a postdoctoral position. If you are interested, Please do not hesitate to contact him (minbo46.ma@gmail) </span>
+<span style="color:red"> He is currently seeking a postdoctoral position. If you are interested, please do not hesitate to contact him (minbo46.ma@gmail) </span>
 
 <!--<span style="color:red"> **[Call for paper]** We organize a special issue on **[Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf)** at ***[ACM TIST](https://dl.acm.org/journal/tist)***, we sincerely invite you to contribute a manuscript. Submission deadline on April 30, 2025! </span>
 
@@ -28,6 +28,8 @@ News
 -->
 <!--* <span style="color:red">New!</span> (2024-11-20) Three papers were accepted to ***KDD 2025*** about **[LLM as Traffic Control Agent](https://arxiv.org/abs/2312.16044)** ([Media Coverage](https://www.qbitai.com/2024/03/128386.html)), **[Auotmated Spatiotemporal Forecasting](https://arxiv.org/abs/2409.16586)** and **[Graph LoRA](https://arxiv.org/abs/2409.16670)**, congrates to my students Siqi Lai, Tengfei Lyu, and Zherui Yang.
 -->
+* (2025-05-15) One paper * Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning* is accepted by **SIGKDD**. (CCF-A)
+* (2025-04-29) One paper *Non-collective Calibrating Strategy for Time Series Forecasting* is accepted by **IJCAI**. (CCF-A)
 * (2024-05-01) One paper *DeepWind: A heterogeneous spatio-temporal model for wind forecasting* is accepted by **Knowledge-Based Systems**. (IF: 8.8)
 * (2023-12-08) One paper *Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting* is accepted by ***ICDE***. (CCF-A)
 * (2023-06-10) One survey paper *Long sequence time-series forecasting with deep learning: A survey* is accepted by ***Information Fusion***. (IF: 14.7)
@@ -41,8 +43,11 @@ News
   </ul>
 </details>
 
+<!--
 Publications
 ======
+-->
+
 <!--* <ins>Siqi Lai</ins>, <ins>Zhao Xu</ins>, <ins>Weijia Zhang</ins>, ***Hao Liu\****, Hui Xiong. [LLMLight: Large Language Models as Traffic Signal Control Agents](https://arxiv.org/abs/2312.16044). In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining  (***KDD 2025***), Toronto, Canada, 2025. [Media Coverage](https://www.qbitai.com/2024/03/128386.html)
 * <ins>Jindong Han</ins>, <ins>Weijia Zhang</ins>, ***Hao Liu\****, Tao Tao, Naiqiang Tan and Hui Xiong. [BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks](https://dl.acm.org/doi/abs/10.14778/3641204.3641217). In Proceedings of the VLDB Endowment (***VLDB 2024***), Guangzhou, China, 2024. <font color="#dd0000"> Best paper nomination award </font>
 * <ins>Jindong Han</ins>, ***Hao Liu\****, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong. [iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation](https://dl.acm.org/doi/10.1145/3580305.3599842). In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (***KDD 2023***), Long Beach, CA, USA, 2023. <font color="#dd0000"> Full deployment on DiDi Chuxing </font>
