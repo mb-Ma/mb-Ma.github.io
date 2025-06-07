@@ -8,6 +8,7 @@ permalink: /publications/
 -->
 
 **2025**
+* **[KBS]** Xingwang Li, Fei Teng, Minbo Ma, Zhen Qin, Jinhong Guo, Jie Xu, Tianrui Li. [Multi-level transfer learning for irregular clinical time series prediction](https://doi.org/10.1016/j.knosys.2025.113825). Knowledge-Based Systems. **(SCI Q1, IF: 7.2)**
 * **[SIGKDD]** **Minbo Ma**, Kai Tang, Huan Li, Fei Teng, Dalin Zhang, Tianrui Li. [Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning](https://arxiv.org/abs/2502.15296). ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **(CCF-A)**
 * **[IJCAI]** Bin Wang, Yongqi Han, **Minbo Ma**, Tianrui Li, Junbo Zhang, Feng Hong, Yanwei Yu. Non-collective Calibrating Strategy for Time Series Forecasting. International Joint Conference on Artificial Intelligence. **(CCF-A)**
 
