@@ -28,7 +28,8 @@ News
 -->
 <!--* <span style="color:red">New!</span> (2024-11-20) Three papers were accepted to ***KDD 2025*** about **[LLM as Traffic Control Agent](https://arxiv.org/abs/2312.16044)** ([Media Coverage](https://www.qbitai.com/2024/03/128386.html)), **[Auotmated Spatiotemporal Forecasting](https://arxiv.org/abs/2409.16586)** and **[Graph LoRA](https://arxiv.org/abs/2409.16670)**, congrates to my students Siqi Lai, Tengfei Lyu, and Zherui Yang.
 -->
-* (2025-05-15) One paper * Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning* is accepted by **SIGKDD**. (CCF-A)
+* (2025-05-20) One paper *Multi-level transfer learning for irregular clinical time series prediction* is accepted by **Knowledge-Based Systems**. (SCI Q1, IF: 7.2)
+* (2025-05-15) One paper *Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning* is accepted by **SIGKDD**. (CCF-A)
 * (2025-04-29) One paper *Non-collective Calibrating Strategy for Time Series Forecasting* is accepted by **IJCAI**. (CCF-A)
 * (2024-05-01) One paper *DeepWind: A heterogeneous spatio-temporal model for wind forecasting* is accepted by **Knowledge-Based Systems**. (IF: 8.8)
 * (2023-12-08) One paper *Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting* is accepted by ***ICDE***. (CCF-A)
