@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Minbo Ma's Homepage"
 title_separator          : "-"
 name                     : &name "Minbo Ma"
-description              : &description "Ph.D. Student"
-description              : &description "SWJTU & University of Hagen"
+description              : &description "Postdoctoral Fellow"
+description              : &description "Tsinghua University"
 url                      : https://mb-Ma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mb-Ma/mb-Ma.github.io"
@@ -82,9 +82,10 @@ author:
   name             : "Minbo Ma"
   avatar           : "minboma.jpg"
   bio              : |
+    Tsinghua, China <br>
     SWJTU, China <br>
     University of Hagen, Germany
-  location         : "Chengdu, China & Hagen, Germany"
+  location         : "Beijing, China"
   employer         :
   googlescholar    : 
   email            : "minbo46.ma@gmail.com"

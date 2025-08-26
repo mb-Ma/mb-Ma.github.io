@@ -7,11 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Minbo Ma is currently pursuing his Ph.D. degree in the School of Computing and Artificial Intelligence at Southwest Jiaotong University (SWJTU), China, supervised by [Prof. Tianrui Li](https://faculty.swjtu.edu.cn/litianrui/en/index.htm). Meanwhile, he is also pursuing a Ph.D. degree at Fernuniversität in Hagen, Germany, supervised by Prof. Dr.-Ing. habil. Dr. h.c. Herwig Unger and Prof. Dr. Zhong Li. He obtained his M.S. degree in Computer Science from Southwest Jiaotong University in 2020, supervised by [Prof. Fei Teng](https://faculty.swjtu.edu.cn/tengfei/en/index.htm). During the period from Oct. 2022 to Oct. 2023, He visited Aalborg University (AAU), Denmark, supervised by [Prof. Christian S. Jensen](https://csj.cs.aau.dk/).  
+Minbo Ma is currently a Postdoctoral Fellow at Tsinghua University. He received dual Ph.D. degrees from Southwest Jiaotong University, China, and Fernuniversität in Hagen, Germany, was co-supervised by [Prof. Tianrui Li](https://faculty.swjtu.edu.cn/litianrui/en/index.htm), Prof. Dr.-Ing. habil. Dr. h.c. Herwig Unger and Prof. Dr. Zhong Li. He also carried out a joint doctoral research program at Aalborg University, Denmark (Oct. 2022 – Oct. 2023), supervised by [Prof. Christian S. Jensen](https://csj.cs.aau.dk/). He obtained his M.S. degree in Computer Science from Southwest Jiaotong University in 2020, supervised by [Prof. Fei Teng](https://faculty.swjtu.edu.cn/tengfei/en/index.htm). 
 
-His research interest lies in Spatial-temporal Data Mining, Graph Neural Networks, and Self-supervised Contrastive Learning.
+His research focuses on interdisciplinary studies of artificial intelligence and spatio-temporal data mining, with applications in green energy, urban computing, and meteorology, as well as generative AI-based time series analysis.
 
+He has published 10 high-quality papers as first author or co-author in prestigious international conferences and journals such as KDD, ICDE, TKDE, IJCAI, Information Fusion, Knowledge-Based Systems, and Information Sciences. His work includes one ESI Highly Cited/Hot Paper. He has won two third prizes in international data competitions. He also serves as a reviewer for leading international conferences and journals, including AAAI, ICDE, TKDE, PVLDB, CIKM, and TGRS.
+
+<!--
 <span style="color:red"> He is currently seeking a postdoctoral position. If you are interested, please do not hesitate to contact him (minbo46.ma@gmail) </span>
+-->
 
 <!--<span style="color:red"> **[Call for paper]** We organize a special issue on **[Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf)** at ***[ACM TIST](https://dl.acm.org/journal/tist)***, we sincerely invite you to contribute a manuscript. Submission deadline on April 30, 2025! </span>
 
