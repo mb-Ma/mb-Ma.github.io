@@ -11,7 +11,7 @@ Minbo Ma is currently a Postdoctoral Fellow at Tsinghua University. He received 
 
 His research focuses on interdisciplinary studies of artificial intelligence and spatio-temporal data mining, with applications in green energy, urban computing, and meteorology, as well as generative AI-based time series analysis.
 
-He has published 10 high-quality papers as first author or co-author in prestigious international conferences and journals such as KDD, ICDE, TKDE, IJCAI, Information Fusion, Knowledge-Based Systems, and Information Sciences. His work includes one ESI Highly Cited/Hot Paper. He has won two third prizes in international data competitions. He also serves as a reviewer for leading international conferences and journals, including AAAI, ICDE, TKDE, PVLDB, CIKM, and TGRS.
+He has published 10 high-quality papers as first author or co-author in prestigious international conferences and journals such as KDD, ICDE, TKDE, IJCAI, TIP, Information Fusion, Knowledge-Based Systems, and Information Sciences. His work includes one ESI Highly Cited/Hot Paper. He has won two third prizes in international data competitions. He also serves as a reviewer for leading international conferences and journals, including AAAI, ICDE, TKDE, PVLDB, CIKM, and TGRS.
 
 <!--
 <span style="color:red"> He is currently seeking a postdoctoral position. If you are interested, please do not hesitate to contact him (minbo46.ma@gmail) </span>
@@ -32,6 +32,8 @@ News
 -->
 <!--* <span style="color:red">New!</span> (2024-11-20) Three papers were accepted to ***KDD 2025*** about **[LLM as Traffic Control Agent](https://arxiv.org/abs/2312.16044)** ([Media Coverage](https://www.qbitai.com/2024/03/128386.html)), **[Auotmated Spatiotemporal Forecasting](https://arxiv.org/abs/2409.16586)** and **[Graph LoRA](https://arxiv.org/abs/2409.16670)**, congrates to my students Siqi Lai, Tengfei Lyu, and Zherui Yang.
 -->
+* (2026-01-25) One paper *Causally-Aware Unsupervised Feature Selection Learning* is accepted by **IEEE Transaction on Image Processing**. (CCF-A, IF: 13.7)
+* (2025-11-07) One paper *Cross-modal feature fusion and distillation for enhanced quantification accuracy in laser-induced breakdown spectroscopy and near-infrared spectroscopy* is accepted by **EAAI**. (IF: 8.0)
 * (2025-05-20) One paper *Multi-level transfer learning for irregular clinical time series prediction* is accepted by **Knowledge-Based Systems**. (SCI Q1, IF: 7.2)
 * (2025-05-15) One paper *Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning* is accepted by **SIGKDD**. (CCF-A)
 * (2025-04-29) One paper *Non-collective Calibrating Strategy for Time Series Forecasting* is accepted by **IJCAI**. (CCF-A)
