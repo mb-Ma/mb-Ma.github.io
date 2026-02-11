@@ -34,6 +34,7 @@ News
 -->
 * (2026-01-25) One paper *Causally-Aware Unsupervised Feature Selection Learning* is accepted by **IEEE Transaction on Image Processing**. (CCF-A, IF: 13.7)
 * (2025-11-07) One paper *Cross-modal feature fusion and distillation for enhanced quantification accuracy in laser-induced breakdown spectroscopy and near-infrared spectroscopy* is accepted by **EAAI**. (IF: 8.0)
+* (2025-09-15) One paper *Modeling temporal dependencies within the target for long-term time series forecasting* is accepted by **TKDE**. (CCF-A, IF: 10.4)
 * (2025-05-20) One paper *Multi-level transfer learning for irregular clinical time series prediction* is accepted by **Knowledge-Based Systems**. (SCI Q1, IF: 7.2)
 * (2025-05-15) One paper *Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning* is accepted by **SIGKDD**. (CCF-A)
 * (2025-04-29) One paper *Non-collective Calibrating Strategy for Time Series Forecasting* is accepted by **IJCAI**. (CCF-A)
