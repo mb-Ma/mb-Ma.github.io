@@ -32,6 +32,8 @@ News
 -->
 <!--* <span style="color:red">New!</span> (2024-11-20) Three papers were accepted to ***KDD 2025*** about **[LLM as Traffic Control Agent](https://arxiv.org/abs/2312.16044)** ([Media Coverage](https://www.qbitai.com/2024/03/128386.html)), **[Auotmated Spatiotemporal Forecasting](https://arxiv.org/abs/2409.16586)** and **[Graph LoRA](https://arxiv.org/abs/2409.16670)**, congrates to my students Siqi Lai, Tengfei Lyu, and Zherui Yang.
 -->
+* (2026-04-24) Serving as a PC member for ACM MM 2026
+* (2026-04-22) Serving as a PC member for CIKM 2026
 * (2026-01-25) One paper *Causally-Aware Unsupervised Feature Selection Learning* is accepted by **IEEE Transaction on Image Processing**. (CCF-A, IF: 13.7)
 * (2025-11-07) One paper *Cross-modal feature fusion and distillation for enhanced quantification accuracy in laser-induced breakdown spectroscopy and near-infrared spectroscopy* is accepted by **EAAI**. (IF: 8.0)
 * (2025-09-15) One paper *Modeling temporal dependencies within the target for long-term time series forecasting* is accepted by **TKDE**. (CCF-A, IF: 10.4)
